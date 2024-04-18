@@ -1,0 +1,38 @@
+websites-dev - [11/04/2016 - 11:45] - 107350, Successfully logged-in
+websites-dev - [11/04/2016 - 11:46] - 107350, Successfully logged-in
+websites-dev - [11/04/2016 - 11:49] - 107350, Successfully logged-in
+websites-dev - [11/04/2016 - 11:53] - 107350, Successfully logged-in
+websites-dev - [11/04/2016 - 12:19] - testing, under media_releases submitted by: Confidence Mothiba failed to submit. reason: Table 'dsdint.docs' doesn't exist 
+websites-dev - [11/04/2016 - 12:20] - testing, under media_releases submitted by: Confidence Mothiba failed to submit. reason: Unknown column 'description' in 'field list' 
+websites-dev - [11/04/2016 - 12:20] - testing, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [11/04/2016 - 15:25] - 107350, Successfully logged-in
+websites-dev - [11/04/2016 - 15:26] - tesing, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [11/04/2016 - 15:26] - tesing, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [12/04/2016 - 08:06] - 107350, Successfully logged-in
+websites-dev - [12/04/2016 - 08:11] - dfdsfdfsdfsd, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [12/04/2016 - 08:11] - dfdsfdfsdfsd, under media_releases submitted by: Confidence Mothiba failed to submit. reason: Duplicate entry 'dfdsfdfsdfsd' for key 'descripttion' 
+websites-dev - [12/04/2016 - 08:15] - dfdsfdfsdfsd, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [12/04/2016 - 08:15] - dfdsfdfsdfsd, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [12/04/2016 - 08:16] - dfdsfdfsdfsd, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [12/04/2016 - 08:17] - dfdsfdfsdfsd, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [12/04/2016 - 08:38] - Flavor in ya ear, under media_releases submitted by: Confidence Mothiba Successfully
+websites-dev - [12/04/2016 - 09:47] - 107350, Successfully logged-in
+websites-dev - [12/04/2016 - 11:29] - 107350, Successfully logged-in
+websites-dev - [12/04/2016 - 14:44] - 107350, Successfully logged-in
+websites-dev - [14/04/2016 - 12:02] - 107350, Successfully logged-in
+websites-dev - [14/04/2016 - 14:16] - 107350, Successfully logged-in
+websites-dev - [14/04/2016 - 15:25] - 107350, Successfully logged-in
+websites-dev - [15/04/2016 - 10:06] - 107350, Successfully logged-in
+websites-dev - [15/04/2016 - 11:19] - 107350, Successfully logged-in
+websites-dev - [15/04/2016 - 12:20] - 107350, Successfully logged-in
+websites-dev - [15/04/2016 - 13:25] - 107350, Successfully logged-in
+websites-dev - [15/04/2016 - 14:26] - 107350, Successfully logged-in
+websites-dev - [18/04/2016 - 08:55] - 107350, Successfully logged-in
+websites-dev - [18/04/2016 - 10:27] - 107350, Successfully logged-in
+websites-dev - [18/04/2016 - 11:56] - 107350, Successfully logged-in
+websites-dev - [18/04/2016 - 14:46] - 107350, Successfully logged-in
+websites-dev - [19/04/2016 - 12:20] - 107350, Successfully logged-in
+websites-dev - [19/04/2016 - 15:09] - Media release - Call for NPO funding proposals, under media_releases submitted by: Confidene Mothiba Successfully
+WBDEV01D - [19/04/2016 - 15:31] - it, Successfully logged-in
+WBDEV01D - [19/04/2016 - 16:22] - it, Successfully logged-in
+WBDEV01D - [21/04/2016 - 13:57] - 107350, Successfully logged-in

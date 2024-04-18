@@ -1,0 +1,7 @@
+documents/newspix/2016-05-10/one.jpg
+documents/newspix/2016-05-10/three.jpg
+documents/newspix/2016-05-10/two.jpg
+documents/newspix/2016-05-10/one.jpg
+documents/newspix/2016-05-10/one.jpg
+documents/newspix/2016-07-21/IMG_0054.JPG
+documents/newspix/2016-07-21/IMG_0063.JPG
